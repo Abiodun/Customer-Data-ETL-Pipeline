@@ -15,6 +15,8 @@ The goal of this project is to perform some ETL operations on customer data usin
 
 
 ## 🚀 Screenshots
+![Loading the raw data](https://raw.githubusercontent.com/Abiodun/Customer-Data-ETL-Pipeline/main/screenshots/architicture.png)
+
 ![Loading the raw data](https://raw.githubusercontent.com/Abiodun/Customer-Data-ETL-Pipeline/main/screenshots/dataloader_1.png)
 
 ![Loading the raw data](https://raw.githubusercontent.com/Abiodun/Customer-Data-ETL-Pipeline/main/screenshots/data_transformer_1.png)
