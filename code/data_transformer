@@ -50,6 +50,18 @@ def test_output(output, *args) -> None:
 
 
 
+#io_config.yaml file
+
+# MySQL
+  MYSQL_DATABASE: sql8644351
+  MYSQL_HOST: sql8.freemysqlhosting.net 
+  MYSQL_PASSWORD: UkAhhyaa6M
+  MYSQL_PORT: 3306
+  MYSQL_USER: sql8644351
+
+
+
+
 #Tranformation Code 1
 
 import pandas as pd
